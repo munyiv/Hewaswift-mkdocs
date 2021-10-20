@@ -5,6 +5,18 @@
 ## Introduction to Hewa Swift
 In the Kenyan context, matatus are a common means of transport for the citizens. The air quality in public service vehicles in Kenya may pose threats to many passengers. As confirmed by our research this project seeks to improve the air quality in kenyan PSV using an automated IOT device.
 
+## Documentation 
+Below we have some of the documentation required for the Hewa Swift project
+
+### Product Requirement Documentation
+
+The PRD describes the product Hewa Swift will build. It drives the efforts of the entire Hewa Swift team.It is going to help the team identify the components needed to build the IOT device and all that is required to have the project working.
+
+
+### System documentation 
+This will give the team a better understanding of how the project works including the source code for 
+us as the developers.
+
 ## Components needed 
 
 #### MQ135 gas sensor
